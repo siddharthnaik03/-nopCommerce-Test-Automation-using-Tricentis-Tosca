@@ -1,10 +1,11 @@
 # -nopCommerce-Test-Automation-using-Tricentis-Tosca
 
-### 📌 Project Overview
+## 📌 Project Overview
 This project focuses on automated testing of the NopCommerce demo e-commerce application using Tricentis Tosca. The objective is to validate critical user workflows such as login, product search, cart operations, Wishlist management, and complete end-to-end order placement.
 The automation suite ensures application stability, improves regression coverage, and demonstrates model-based test automation practices.
 
-🎯 Objectives
+## 🎯 Objectives
+
 •	Automate major functional flows of an e-commerce platform
 
 •	Validate both positive and negative test scenarios
@@ -15,7 +16,7 @@ The automation suite ensures application stability, improves regression coverage
 
 •	Demonstrate Tosca module creation, test case design, and execution
 
-🧰 Tools & Technologies
+## 🧰 Tools & Technologies
 
 •	Automation Tool: Tricentis Tosca
 
@@ -25,7 +26,7 @@ The automation suite ensures application stability, improves regression coverage
 
 •	Testing Type: Functional & End-to-End Testing
 
-✅ Test Scenarios Covered
+## ✅ Test Scenarios Covered
 
 🔐 Authentication
 
@@ -38,7 +39,7 @@ The invalid login test confirms the error message
 "Login was unsuccessful. Please correct the errors and try again. No customer account found" 
 Test
 
-🔎 Product Interaction
+## 🔎 Product Interaction
 
 •	Search for products (e.g., HTC smartphone) 
 Test
@@ -49,7 +50,7 @@ Test
 •	Add products to wishlist 
 Test
 
-🛒 End-to-End Order Workflow
+## 🛒 End-to-End Order Workflow
 The automated E2E test performs the following steps:
 1.	Open the NopCommerce website
 2.	Login with valid credentials
@@ -65,7 +66,7 @@ The final verification confirms:
 "Your order has been successfully processed!" 
 Product order e2e
 
-🚀 Key Learning Outcomes
+## 🚀 Key Learning Outcomes
 •	Implemented Tosca automation from module creation to execution
 •	Designed reusable and scalable test cases
 •	Validated complete e-commerce workflows
