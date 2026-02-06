@@ -6,30 +6,46 @@ The automation suite ensures application stability, improves regression coverage
 
 🎯 Objectives
 •	Automate major functional flows of an e-commerce platform
+
 •	Validate both positive and negative test scenarios
+
 •	Execute end-to-end order processing
+
 •	Generate execution reports with verification checkpoints
+
 •	Demonstrate Tosca module creation, test case design, and execution
 
 🧰 Tools & Technologies
+
 •	Automation Tool: Tricentis Tosca
+
 •	Application Under Test: NopCommerce Demo Website
+
 •	Browser: Chrome
+
 •	Testing Type: Functional & End-to-End Testing
 
 ✅ Test Scenarios Covered
+
 🔐 Authentication
+
 •	Valid Login
+
 •	Invalid Login with error verification
-The invalid login test confirms the error message:
+
+The invalid login test confirms the error message
+
 "Login was unsuccessful. Please correct the errors and try again. No customer account found" 
 Test
 
 🔎 Product Interaction
+
 •	Search for products (e.g., HTC smartphone) 
 Test
+
 •	Add items to cart (Apple MacBook Pro) 
 Test
+
 •	Add products to wishlist 
 Test
 
