@@ -67,8 +67,12 @@ The final verification confirms:
 Product order e2e
 
 ## 🚀 Key Learning Outcomes
+
 •	Implemented Tosca automation from module creation to execution
+
 •	Designed reusable and scalable test cases
+
 •	Validated complete e-commerce workflows
+
 •	Strengthened understanding of functional automation strategies
 
